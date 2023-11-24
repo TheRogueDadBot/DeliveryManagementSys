@@ -24,7 +24,7 @@ The Delivery Management System (DMS) is a sophisticated routing and package mana
 - Installation: Download and extract the contents of the project repository. No additional installation required, as the project utilizes Python's standard libraries.
 - Running the Program: Execute `main.py` to launch the application. The program simulates the delivery process based on the provided data sets and operational parameters.
 
-  <img src="Documents/Screenshot%202023-11-24%20at%2006.50.16.png" alt="Screenshot1" width="350"/> <img src="Documents/Screenshot%202023-11-24%20at%2006.51.18.png" alt="Screenshot2" width="350"/>
+  <img src="Documents/Screenshot%202023-11-24%20at%2006.50.16.png" alt="Screenshot1" width="375"/> <img src="Documents/Screenshot%202023-11-24%20at%2006.51.18.png" alt="Screenshot2" width="375"/>
 
 ## Highlights & Strengths
 
